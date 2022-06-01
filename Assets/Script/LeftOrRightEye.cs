@@ -12,7 +12,7 @@ public class LeftOrRightEye : MonoBehaviour
         {
             renderer = GetComponent<MeshRenderer>();
            
-            renderer.material.SetFloat("IndexEye", right ? 1 : 0);
+            renderer.material.SetFloat("_IndexEye", right ? 1 : 0);
             renderer.material.color = right ?  Color.green : Color.red;
         }
 }

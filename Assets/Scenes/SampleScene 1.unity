@@ -1126,13 +1126,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1612920885}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb891d698cfd6a743a9983e26000e21f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   renderer: {fileID: 1612920888}
-  right: 0
+  right: 1
 --- !u!23 &1612920888 stripped
 MeshRenderer:
   m_CorrespondingSourceObject: {fileID: -7635826562936255635, guid: 9a8b9e641319f8d489b96c1631a206e3,
@@ -1422,7 +1422,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1949856637}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eb891d698cfd6a743a9983e26000e21f, type: 3}
   m_Name: 
